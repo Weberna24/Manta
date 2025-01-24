@@ -104,7 +104,7 @@
   }
   
   .hero{
-    background-image: url('/Sheppy/images/manta3.jpg');
+    background-image: url('images/manta3.jpg');
     background-position: center;
     background-size: contain;
     width: 100%;
